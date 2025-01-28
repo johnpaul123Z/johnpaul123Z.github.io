@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- Linkedin: https://www.linkedin.com/in/john-gleiter-33013b295/ 
+
 
  
  Dynamic and driven Computer Science and Math major at the University of Houston,
