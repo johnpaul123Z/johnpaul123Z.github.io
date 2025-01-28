@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ Linkedin: https://www.linkedin.com/in/john-gleiter-33013b295/ 
 
  
  Dynamic and driven Computer Science and Math major at the University of Houston,
@@ -14,3 +15,15 @@ redirect_from:
  strengths in communication, teamwork, and problem-solving.   Adept in various
  programming languages and motivated to apply technical knowledge in a practical
  setting.
+
+ EDUCATION: 
+ Bachelor of Science, Computer Science and Math
+ University of Houston ‐ Houston, TX
+ computer science.
+ Awarded Transfer Excellent Scholarship.
+ General Education
+ Rock Valley College‐ Rockford, Il
+ GPA 3.5.
+ Dean's List Honoree,  4 semesters
+
+ 
