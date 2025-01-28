@@ -20,7 +20,9 @@ redirect_from:
  
  Bachelor of Science, 
  Computer Science and Math
+
  University of Houston ‐ Houston, TX
+
  Rock Valley College‐ Rockford, Il
  
  
