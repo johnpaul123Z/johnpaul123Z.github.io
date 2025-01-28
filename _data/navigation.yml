@@ -5,6 +5,8 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Linkedin"
+    url: https://www.linkedin.com/in/john-gleiter-33013b295/
   - title: "Resume"
     url: /files/Resume2024.pdf
   - title: "cs.uh.edu:"
