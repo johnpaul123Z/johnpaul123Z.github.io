@@ -7,6 +7,7 @@
 main:
   - title: "Resume"
     url: /files/Resume2024.pdf
-    
+  - title: "cs.uh.edu:"
+    url: https://uh.edu/nsm/computer-science/ 
   - title: "Guide"
     url: /markdown/
