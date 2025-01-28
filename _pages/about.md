@@ -18,11 +18,10 @@ redirect_from:
 
  EDUCATION: 
  
- Bachelor of Science, 
- Computer Science and Math
+ Bachelor of Science, Computer Science and Math
 
- University of Houston ‐ Houston, TX
-
+ University of Houston ‐ Houston, TX 
+ 
  Rock Valley College‐ Rockford, Il
  
  
