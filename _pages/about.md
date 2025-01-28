@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,4 +8,9 @@ redirect_from:
 ---
 
  
-About 
+ Dynamic and driven Computer Science and Math major at the University of Houston,
+ with over 2.5 years of diverse experience in customer service, technical, and other
+ hands-on roles. Demonstrated capability in managing fast-paced environments, with
+ strengths in communication, teamwork, and problem-solving.   Adept in various
+ programming languages and motivated to apply technical knowledge in a practical
+ setting.
