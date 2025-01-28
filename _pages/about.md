@@ -17,13 +17,10 @@ redirect_from:
  setting.
 
  EDUCATION: 
- Bachelor of Science, Computer Science and Math
+ 
+ Bachelor of Science, 
+ Computer Science and Math
  University of Houston ‐ Houston, TX
- computer science.
- Awarded Transfer Excellent Scholarship.
- General Education
  Rock Valley College‐ Rockford, Il
- GPA 3.5.
- Dean's List Honoree,  4 semesters
-
+ 
  
